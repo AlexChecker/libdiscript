@@ -1,0 +1,2 @@
+/usr/bin/ar qc libStaticLibrary.a CMakeFiles/StaticLibrary.dir/src/tokenizer.cpp.o
+/usr/bin/ranlib libStaticLibrary.a

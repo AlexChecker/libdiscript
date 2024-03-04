@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblibdiscript.a CMakeFiles/libdiscript.dir/src/tokenizer.cpp.o
+/usr/bin/ranlib liblibdiscript.a
