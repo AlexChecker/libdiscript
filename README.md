@@ -1,0 +1,2 @@
+# libdiscript
+discript library
